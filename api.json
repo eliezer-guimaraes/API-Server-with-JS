@@ -1,0 +1,44 @@
+{
+	"nome":"Restaurante Santa Cruz",
+	"informacoes": [
+		{
+			"rua":"Rua Santa Cruz, 79",
+			"bairro":"Lunar",
+			"cidade":"Jupiter Show",
+			"estado":"São Paulo",
+			"país":"Brasil"
+		},
+		{
+			"menu":[
+				{
+					"entradas":[{
+						"entrada1":"R$10,00",
+						"entrada2":"R$10,00",
+						"entrada3":"R$12,00"
+					}],
+					"almoco":[{
+						"almoco1":"R$20,00",
+						"almoco2":"R$25,00",
+						"almoco3":"R$30,00"
+					}],
+					"janta":[{
+						"janta1":"R$30,00",
+						"janta2":"R$32,00",
+						"janta3":"R$37,00"
+					}],
+					"café":[{
+						"café1":"R$5,00",
+						"café2":"R$8,00",
+						"café3":"R$10,00"
+					}]
+				}
+			],
+			"combo":[
+				{
+					"infantil":"15,00",
+					"especial_fest":"20,00"
+				}
+			]
+		}
+	]
+}
