@@ -8,4 +8,4 @@ A simples API Server made with JavaScript
    1  =>  Abrir um servidor e rodar uma API padrão (api.json)
    2  =>  Consumir uma API externa
 
->>>Esse programa serve apenas para testes de open source encoding<<<
+=> Esse programa serve apenas para testes de open source encoding <=
